@@ -1,0 +1,18 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  text-align: center;
+}
+.heading{
+  text-align: center;
+  margin-top: 20px;
+}
+.form{
+ margin-top: 10px;
+}
+.text-div{
+  display: flex;
+  justify-content: space-between;
+  padding: 10px ;
+}
